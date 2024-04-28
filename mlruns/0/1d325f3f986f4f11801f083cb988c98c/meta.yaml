@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/1d325f3f986f4f11801f083cb988c98c/artifacts
+end_time: 1714314058292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d325f3f986f4f11801f083cb988c98c
+run_name: loud-moose-880
+run_uuid: 1d325f3f986f4f11801f083cb988c98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714314047907
+status: 3
+tags: []
+user_id: lneillwgu

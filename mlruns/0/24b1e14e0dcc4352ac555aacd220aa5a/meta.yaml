@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/24b1e14e0dcc4352ac555aacd220aa5a/artifacts
+end_time: 1714314067895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24b1e14e0dcc4352ac555aacd220aa5a
+run_name: agreeable-pig-690
+run_uuid: 24b1e14e0dcc4352ac555aacd220aa5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714314058306
+status: 3
+tags: []
+user_id: lneillwgu

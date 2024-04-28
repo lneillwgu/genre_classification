@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/377f40ffe7204f2d87e1d9aa6fafbe59/artifacts
+end_time: 1714314220886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 377f40ffe7204f2d87e1d9aa6fafbe59
+run_name: stylish-slug-953
+run_uuid: 377f40ffe7204f2d87e1d9aa6fafbe59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714314163794
+status: 3
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/a4f3ae8beec64be8a895f31f5b44dc49/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4f3ae8beec64be8a895f31f5b44dc49
+run_name: zealous-penguin-791
+run_uuid: a4f3ae8beec64be8a895f31f5b44dc49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714272152635
+status: 1
+tags: []
+user_id: lneillwgu

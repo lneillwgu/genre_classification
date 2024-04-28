@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/48e46d19d0d743e1b55166d02955fd25/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48e46d19d0d743e1b55166d02955fd25
+run_name: mysterious-fox-623
+run_uuid: 48e46d19d0d743e1b55166d02955fd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714269756769
+status: 1
+tags: []
+user_id: lneillwgu

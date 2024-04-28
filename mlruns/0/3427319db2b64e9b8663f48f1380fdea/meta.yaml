@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/3427319db2b64e9b8663f48f1380fdea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3427319db2b64e9b8663f48f1380fdea
+run_name: clean-kit-616
+run_uuid: 3427319db2b64e9b8663f48f1380fdea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714270042551
+status: 1
+tags: []
+user_id: lneillwgu

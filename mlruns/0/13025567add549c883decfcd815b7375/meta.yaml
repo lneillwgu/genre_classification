@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/13025567add549c883decfcd815b7375/artifacts
+end_time: 1714269610515
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13025567add549c883decfcd815b7375
+run_name: sassy-koi-313
+run_uuid: 13025567add549c883decfcd815b7375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714269592042
+status: 4
+tags: []
+user_id: lneillwgu

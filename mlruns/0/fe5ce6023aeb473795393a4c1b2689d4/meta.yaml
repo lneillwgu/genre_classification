@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/fe5ce6023aeb473795393a4c1b2689d4/artifacts
+end_time: 1714271795107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe5ce6023aeb473795393a4c1b2689d4
+run_name: sneaky-squid-632
+run_uuid: fe5ce6023aeb473795393a4c1b2689d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714271726047
+status: 4
+tags: []
+user_id: lneillwgu

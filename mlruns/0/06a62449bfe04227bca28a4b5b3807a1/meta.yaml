@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/06a62449bfe04227bca28a4b5b3807a1/artifacts
+end_time: 1714269772951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06a62449bfe04227bca28a4b5b3807a1
+run_name: welcoming-trout-725
+run_uuid: 06a62449bfe04227bca28a4b5b3807a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714269688309
+status: 4
+tags: []
+user_id: lneillwgu

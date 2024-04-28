@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/be73f2f6cc574f1ea06c6f6e6ff0546a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be73f2f6cc574f1ea06c6f6e6ff0546a
+run_name: handsome-crow-889
+run_uuid: be73f2f6cc574f1ea06c6f6e6ff0546a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714273928226
+status: 1
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/d07534d552b14327ad62ce1cacd54cf0/artifacts
+end_time: 1714275247116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d07534d552b14327ad62ce1cacd54cf0
+run_name: rambunctious-cod-618
+run_uuid: d07534d552b14327ad62ce1cacd54cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714275185302
+status: 4
+tags: []
+user_id: lneillwgu

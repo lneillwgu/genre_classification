@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/4f0e24a271a74243a0fd50bc79362c14/artifacts
+end_time: 1714273313886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f0e24a271a74243a0fd50bc79362c14
+run_name: nervous-kite-689
+run_uuid: 4f0e24a271a74243a0fd50bc79362c14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714273311486
+status: 4
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/fd2d30f5cc584f74a1e9c2762f5f8c3f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd2d30f5cc584f74a1e9c2762f5f8c3f
+run_name: fortunate-stoat-718
+run_uuid: fd2d30f5cc584f74a1e9c2762f5f8c3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714268160077
+status: 1
+tags: []
+user_id: lneillwgu

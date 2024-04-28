@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/45bba61591ea4f699e7b898ae9d96a5f/artifacts
+end_time: 1714268843512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45bba61591ea4f699e7b898ae9d96a5f
+run_name: charming-fawn-485
+run_uuid: 45bba61591ea4f699e7b898ae9d96a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714268757432
+status: 4
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/db9936fce2294734ba0d413b67f2861a/artifacts
+end_time: 1714270058813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9936fce2294734ba0d413b67f2861a
+run_name: receptive-turtle-9
+run_uuid: db9936fce2294734ba0d413b67f2861a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714269971051
+status: 4
+tags: []
+user_id: lneillwgu

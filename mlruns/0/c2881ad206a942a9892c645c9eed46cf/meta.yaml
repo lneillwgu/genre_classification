@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/c2881ad206a942a9892c645c9eed46cf/artifacts
+end_time: 1714272169016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2881ad206a942a9892c645c9eed46cf
+run_name: placid-ant-719
+run_uuid: c2881ad206a942a9892c645c9eed46cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714272085673
+status: 4
+tags: []
+user_id: lneillwgu

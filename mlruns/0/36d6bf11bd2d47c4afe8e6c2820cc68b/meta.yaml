@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/36d6bf11bd2d47c4afe8e6c2820cc68b/artifacts
+end_time: 1714272480649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36d6bf11bd2d47c4afe8e6c2820cc68b
+run_name: nimble-kite-692
+run_uuid: 36d6bf11bd2d47c4afe8e6c2820cc68b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714272460539
+status: 4
+tags: []
+user_id: lneillwgu

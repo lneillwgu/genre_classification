@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/583f57fd50b644a2819b4b29abd3263e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 583f57fd50b644a2819b4b29abd3263e
+run_name: puzzled-auk-186
+run_uuid: 583f57fd50b644a2819b4b29abd3263e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714275394130
+status: 1
+tags: []
+user_id: lneillwgu

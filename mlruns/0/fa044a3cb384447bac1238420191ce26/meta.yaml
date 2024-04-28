@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/fa044a3cb384447bac1238420191ce26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa044a3cb384447bac1238420191ce26
+run_name: unruly-lamb-835
+run_uuid: fa044a3cb384447bac1238420191ce26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714275937175
+status: 1
+tags: []
+user_id: lneillwgu

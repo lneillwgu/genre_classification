@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/39583be42f0440869a2a6a986f25589b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39583be42f0440869a2a6a986f25589b
+run_name: unequaled-sheep-34
+run_uuid: 39583be42f0440869a2a6a986f25589b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714276169956
+status: 1
+tags: []
+user_id: lneillwgu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/8ca0956c09ec40faa447e1d02a4ed7f3/artifacts
+end_time: 1714271794969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ca0956c09ec40faa447e1d02a4ed7f3
+run_name: learned-seal-468
+run_uuid: 8ca0956c09ec40faa447e1d02a4ed7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714271794075
+status: 4
+tags: []
+user_id: lneillwgu

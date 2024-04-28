@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/7809b092dbb24de8bf0823a8e0c172c8/artifacts
+end_time: 1714271082257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7809b092dbb24de8bf0823a8e0c172c8
+run_name: gifted-robin-105
+run_uuid: 7809b092dbb24de8bf0823a8e0c172c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714271055041
+status: 4
+tags: []
+user_id: lneillwgu

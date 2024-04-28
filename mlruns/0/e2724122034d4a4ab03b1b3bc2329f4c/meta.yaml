@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/e2724122034d4a4ab03b1b3bc2329f4c/artifacts
+end_time: 1714268181865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e2724122034d4a4ab03b1b3bc2329f4c
+run_name: indecisive-ape-398
+run_uuid: e2724122034d4a4ab03b1b3bc2329f4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714268158166
+status: 4
+tags: []
+user_id: lneillwgu

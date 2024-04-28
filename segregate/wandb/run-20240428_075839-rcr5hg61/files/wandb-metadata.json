@@ -1,0 +1,37 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.19",
+    "heartbeatAt": "2024-04-28T12:58:40.179217",
+    "startedAt": "2024-04-28T12:58:39.533836",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/lneillwgu/genre_classification.git",
+        "commit": "28e9b117d419d0f62a3716e2e6fa5562a3245466"
+    },
+    "email": "lneill4@wgu.edu",
+    "root": "/home/lneillwgu/exercise_14/genre_classification",
+    "host": "LindseysLaptop",
+    "username": "lneillwgu",
+    "executable": "/home/lneillwgu/miniconda3/envs/mlflow-85f2c62599d969a3ef3955ae8f4889861868b1b8/bin/python"
+}

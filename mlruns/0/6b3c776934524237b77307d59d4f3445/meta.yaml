@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lneillwgu/exercise_14/genre_classification/mlruns/0/6b3c776934524237b77307d59d4f3445/artifacts
+end_time: 1714309182668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b3c776934524237b77307d59d4f3445
+run_name: glamorous-colt-591
+run_uuid: 6b3c776934524237b77307d59d4f3445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714309056942
+status: 3
+tags: []
+user_id: lneillwgu
